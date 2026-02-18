@@ -23,4 +23,8 @@ public class HabitatRepositorio {
         return habitat;
     }
 
+    public List<Habitat> obtenerHabitats(){
+        return habitats;
+    }
+
 }
